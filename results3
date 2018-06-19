@@ -1,0 +1,959 @@
+snake2.html:403 ------------------------------------------------------------
+snake2.html:404 Batch number : 0
+snake2.html:405 Top Score so far : 0
+snake2.html:406 Top Scorer Coefficients : -9007199254740991,0,0,0,0,0,0
+snake2.html:407 Current Score : 0
+snake2.html:408 Current Coefficients : -9007199254740991,0,0,0,0,0,0
+snake2.html:409 ------------------------------------------------------------
+snake2.html:403 ------------------------------------------------------------
+snake2.html:404 Batch number : 1
+snake2.html:405 Top Score so far : 0
+snake2.html:406 Top Scorer Coefficients : -9007199254740991,0,0,0,0,0,0
+snake2.html:407 Current Score : 0
+snake2.html:408 Current Coefficients : -9007199254740991,-6,-9,-10,-1,10,-10
+snake2.html:409 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 2
+snake2.html:343 Top Score so far : 31
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,3,-2,-7,-8,0,2
+snake2.html:345 Current Score : 31
+snake2.html:346 Current Coefficients : -9007199254740991,3,-2,-7,-8,0,2
+snake2.html:347 ------------------------------------------------------------
+snake2.html:403 ------------------------------------------------------------
+snake2.html:404 Batch number : 3
+snake2.html:405 Top Score so far : 31
+snake2.html:406 Top Scorer Coefficients : -9007199254740991,3,-2,-7,-8,0,2
+snake2.html:407 Current Score : 0
+snake2.html:408 Current Coefficients : -9007199254740991,-1,-2,-9,-14,8,4
+snake2.html:409 ------------------------------------------------------------
+snake2.html:403 ------------------------------------------------------------
+snake2.html:404 Batch number : 4
+snake2.html:405 Top Score so far : 31
+snake2.html:406 Top Scorer Coefficients : -9007199254740991,3,-2,-7,-8,0,2
+snake2.html:407 Current Score : 0
+snake2.html:408 Current Coefficients : -9007199254740991,-5,6,-2,-8,0,2
+snake2.html:409 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 5
+snake2.html:343 Top Score so far : 31
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,3,-2,-7,-8,0,2
+snake2.html:345 Current Score : 30
+snake2.html:346 Current Coefficients : -9007199254740991,3,-5,-3,-15,-5,2
+snake2.html:347 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 6
+snake2.html:343 Top Score so far : 34
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,3,7,-1,-8,0,-6
+snake2.html:345 Current Score : 34
+snake2.html:346 Current Coefficients : -9007199254740991,3,7,-1,-8,0,-6
+snake2.html:347 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 7
+snake2.html:343 Top Score so far : 34
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,3,7,-1,-8,0,-6
+snake2.html:345 Current Score : 15
+snake2.html:346 Current Coefficients : -9007199254740991,7,4,-2,-9,-5,4
+snake2.html:347 ------------------------------------------------------------
+snake2.html:403 ------------------------------------------------------------
+snake2.html:404 Batch number : 8
+snake2.html:405 Top Score so far : 34
+snake2.html:406 Top Scorer Coefficients : -9007199254740991,3,7,-1,-8,0,-6
+snake2.html:407 Current Score : 0
+snake2.html:408 Current Coefficients : -9007199254740991,-1,-2,-1,-8,10,-6
+snake2.html:409 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 9
+snake2.html:343 Top Score so far : 34
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,3,7,-1,-8,0,-6
+snake2.html:345 Current Score : 34
+snake2.html:346 Current Coefficients : -9007199254740991,3,7,6,-8,0,2
+snake2.html:347 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 10
+snake2.html:343 Top Score so far : 34
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,3,7,-1,-8,0,-6
+snake2.html:345 Current Score : 16
+snake2.html:346 Current Coefficients : -9007199254740991,6,15,-1,-11,0,-9
+snake2.html:347 ------------------------------------------------------------
+snake2.html:403 ------------------------------------------------------------
+snake2.html:404 Batch number : 11
+snake2.html:405 Top Score so far : 34
+snake2.html:406 Top Scorer Coefficients : -9007199254740991,3,7,-1,-8,0,-6
+snake2.html:407 Current Score : 0
+snake2.html:408 Current Coefficients : -9007199254740991,0,7,0,-11,1,-6
+snake2.html:409 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 12
+snake2.html:343 Top Score so far : 34
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,3,7,-1,-8,0,-6
+snake2.html:345 Current Score : 17
+snake2.html:346 Current Coefficients : -9007199254740991,5,3,-11,-8,-1,2
+snake2.html:347 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 13
+snake2.html:343 Top Score so far : 34
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,3,7,-1,-8,0,-6
+snake2.html:345 Current Score : 33
+snake2.html:346 Current Coefficients : -9007199254740991,3,16,5,-15,0,3
+snake2.html:347 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 14
+snake2.html:343 Top Score so far : 34
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,3,7,-1,-8,0,-6
+snake2.html:345 Current Score : 14
+snake2.html:346 Current Coefficients : -9007199254740991,6,15,-1,-3,-3,-6
+snake2.html:347 ------------------------------------------------------------
+snake2.html:403 ------------------------------------------------------------
+snake2.html:404 Batch number : 15
+snake2.html:405 Top Score so far : 34
+snake2.html:406 Top Scorer Coefficients : -9007199254740991,3,7,-1,-8,0,-6
+snake2.html:407 Current Score : 0
+snake2.html:408 Current Coefficients : -9007199254740991,-7,7,9,-17,1,-6
+snake2.html:409 ------------------------------------------------------------
+snake2.html:403 ------------------------------------------------------------
+snake2.html:404 Batch number : 16
+snake2.html:405 Top Score so far : 34
+snake2.html:406 Top Scorer Coefficients : -9007199254740991,3,7,-1,-8,0,-6
+snake2.html:407 Current Score : 0
+snake2.html:408 Current Coefficients : -9007199254740991,-2,8,-1,-8,0,-12
+snake2.html:409 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 17
+snake2.html:343 Top Score so far : 34
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,3,7,-1,-8,0,-6
+snake2.html:345 Current Score : 25
+snake2.html:346 Current Coefficients : -9007199254740991,3,11,-3,-8,-2,1
+snake2.html:347 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 18
+snake2.html:343 Top Score so far : 34
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,3,7,-1,-8,0,-6
+snake2.html:345 Current Score : 17
+snake2.html:346 Current Coefficients : -9007199254740991,4,16,-1,-8,0,-6
+snake2.html:347 ------------------------------------------------------------
+snake2.html:403 ------------------------------------------------------------
+snake2.html:404 Batch number : 19
+snake2.html:405 Top Score so far : 34
+snake2.html:406 Top Scorer Coefficients : -9007199254740991,3,7,-1,-8,0,-6
+snake2.html:407 Current Score : 0
+snake2.html:408 Current Coefficients : -9007199254740991,-7,7,-1,-5,0,-6
+snake2.html:409 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 20
+snake2.html:343 Top Score so far : 34
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,3,7,-1,-8,0,-6
+snake2.html:345 Current Score : 18
+snake2.html:346 Current Coefficients : -9007199254740991,8,7,4,-1,0,1
+snake2.html:347 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 21
+snake2.html:343 Top Score so far : 34
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,3,7,-1,-8,0,-6
+snake2.html:345 Current Score : 2
+snake2.html:346 Current Coefficients : -9007199254740991,3,16,-1,-8,2,-15
+snake2.html:347 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 22
+snake2.html:343 Top Score so far : 34
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,3,7,-1,-8,0,-6
+snake2.html:345 Current Score : 16
+snake2.html:346 Current Coefficients : -9007199254740991,11,12,-11,-8,0,0
+snake2.html:347 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 23
+snake2.html:343 Top Score so far : 34
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,3,7,-1,-8,0,-6
+snake2.html:345 Current Score : 18
+snake2.html:346 Current Coefficients : -9007199254740991,2,6,-6,-2,-6,-6
+snake2.html:347 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 24
+snake2.html:343 Top Score so far : 34
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,3,7,-1,-8,0,-6
+snake2.html:345 Current Score : 16
+snake2.html:346 Current Coefficients : -9007199254740991,13,15,-2,-8,-5,-12
+snake2.html:347 ------------------------------------------------------------
+snake2.html:403 ------------------------------------------------------------
+snake2.html:404 Batch number : 25
+snake2.html:405 Top Score so far : 34
+snake2.html:406 Top Scorer Coefficients : -9007199254740991,3,7,-1,-8,0,-6
+snake2.html:407 Current Score : 0
+snake2.html:408 Current Coefficients : -9007199254740991,-6,0,-1,-7,0,-14
+snake2.html:409 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 26
+snake2.html:343 Top Score so far : 34
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,3,7,-1,-8,0,-6
+snake2.html:345 Current Score : 31
+snake2.html:346 Current Coefficients : -9007199254740991,6,7,-3,-16,0,4
+snake2.html:347 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 27
+snake2.html:343 Top Score so far : 34
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,3,7,-1,-8,0,-6
+snake2.html:345 Current Score : 30
+snake2.html:346 Current Coefficients : -9007199254740991,3,10,9,-8,-3,-1
+snake2.html:347 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 28
+snake2.html:343 Top Score so far : 34
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,3,7,-1,-8,0,-6
+snake2.html:345 Current Score : 15
+snake2.html:346 Current Coefficients : -9007199254740991,12,4,-1,-14,0,-10
+snake2.html:347 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 29
+snake2.html:343 Top Score so far : 42
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,3,-2,8,-17,4,2
+snake2.html:345 Current Score : 42
+snake2.html:346 Current Coefficients : -9007199254740991,3,-2,8,-17,4,2
+snake2.html:347 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 30
+snake2.html:343 Top Score so far : 42
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,3,-2,8,-17,4,2
+snake2.html:345 Current Score : 33
+snake2.html:346 Current Coefficients : -9007199254740991,3,-2,12,-20,-5,5
+snake2.html:347 ------------------------------------------------------------
+snake2.html:403 ------------------------------------------------------------
+snake2.html:404 Batch number : 31
+snake2.html:405 Top Score so far : 42
+snake2.html:406 Top Scorer Coefficients : -9007199254740991,3,-2,8,-17,4,2
+snake2.html:407 Current Score : 0
+snake2.html:408 Current Coefficients : -9007199254740991,-1,1,-2,-19,0,2
+snake2.html:409 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 32
+snake2.html:343 Top Score so far : 42
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,3,-2,8,-17,4,2
+snake2.html:345 Current Score : 6
+snake2.html:346 Current Coefficients : -9007199254740991,3,7,15,-17,9,-3
+snake2.html:347 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 33
+snake2.html:343 Top Score so far : 42
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,3,-2,8,-17,4,2
+snake2.html:345 Current Score : 3
+snake2.html:346 Current Coefficients : -9007199254740991,12,2,7,-19,4,2
+snake2.html:347 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 34
+snake2.html:343 Top Score so far : 42
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,3,-2,8,-17,4,2
+snake2.html:345 Current Score : 40
+snake2.html:346 Current Coefficients : -9007199254740991,11,-2,8,-17,4,-4
+snake2.html:347 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 35
+snake2.html:343 Top Score so far : 42
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,3,-2,8,-17,4,2
+snake2.html:345 Current Score : 9
+snake2.html:346 Current Coefficients : -9007199254740991,2,7,7,-17,12,-1
+snake2.html:347 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 36
+snake2.html:343 Top Score so far : 42
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,3,-2,8,-17,4,2
+snake2.html:345 Current Score : 40
+snake2.html:346 Current Coefficients : -9007199254740991,7,-8,-2,-17,4,-7
+snake2.html:347 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 37
+snake2.html:343 Top Score so far : 42
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,3,-2,8,-17,4,2
+snake2.html:345 Current Score : 41
+snake2.html:346 Current Coefficients : -9007199254740991,3,-3,3,-7,4,7
+snake2.html:347 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 38
+snake2.html:343 Top Score so far : 43
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,3,-8,9,-14,2,-6
+snake2.html:345 Current Score : 43
+snake2.html:346 Current Coefficients : -9007199254740991,3,-8,9,-14,2,-6
+snake2.html:347 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 39
+snake2.html:343 Top Score so far : 43
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,3,-8,9,-14,2,-6
+snake2.html:345 Current Score : 15
+snake2.html:346 Current Coefficients : -9007199254740991,8,-9,9,-14,-6,-14
+snake2.html:347 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 40
+snake2.html:343 Top Score so far : 43
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,3,-8,9,-14,2,-6
+snake2.html:345 Current Score : 36
+snake2.html:346 Current Coefficients : -9007199254740991,3,-16,9,-8,12,-6
+snake2.html:347 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 41
+snake2.html:343 Top Score so far : 43
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,3,-8,9,-14,2,-6
+snake2.html:345 Current Score : 42
+snake2.html:346 Current Coefficients : -9007199254740991,9,-8,17,-14,5,-6
+snake2.html:347 ------------------------------------------------------------
+snake2.html:403 ------------------------------------------------------------
+snake2.html:404 Batch number : 42
+snake2.html:405 Top Score so far : 43
+snake2.html:406 Top Scorer Coefficients : -9007199254740991,3,-8,9,-14,2,-6
+snake2.html:407 Current Score : 0
+snake2.html:408 Current Coefficients : -9007199254740991,0,1,19,-14,9,0
+snake2.html:409 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 43
+snake2.html:343 Top Score so far : 43
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,3,-8,9,-14,2,-6
+snake2.html:345 Current Score : 16
+snake2.html:346 Current Coefficients : -9007199254740991,12,-1,7,-5,-2,2
+snake2.html:347 ------------------------------------------------------------
+snake2.html:403 ------------------------------------------------------------
+snake2.html:404 Batch number : 44
+snake2.html:405 Top Score so far : 43
+snake2.html:406 Top Scorer Coefficients : -9007199254740991,3,-8,9,-14,2,-6
+snake2.html:407 Current Score : 0
+snake2.html:408 Current Coefficients : -9007199254740991,-2,-17,5,-14,2,3
+snake2.html:409 ------------------------------------------------------------
+snake2.html:403 ------------------------------------------------------------
+snake2.html:404 Batch number : 45
+snake2.html:405 Top Score so far : 43
+snake2.html:406 Top Scorer Coefficients : -9007199254740991,3,-8,9,-14,2,-6
+snake2.html:407 Current Score : 0
+snake2.html:408 Current Coefficients : -9007199254740991,-6,-12,10,-16,-4,-6
+snake2.html:409 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 46
+snake2.html:343 Top Score so far : 43
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,3,-8,9,-14,2,-6
+snake2.html:345 Current Score : 42
+snake2.html:346 Current Coefficients : -9007199254740991,3,-11,15,-15,2,4
+snake2.html:347 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 47
+snake2.html:343 Top Score so far : 43
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,3,-8,9,-14,2,-6
+snake2.html:345 Current Score : 39
+snake2.html:346 Current Coefficients : -9007199254740991,3,-8,10,-14,12,3
+snake2.html:347 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 48
+snake2.html:343 Top Score so far : 43
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,3,-8,9,-14,2,-6
+snake2.html:345 Current Score : 41
+snake2.html:346 Current Coefficients : -9007199254740991,7,-8,9,-9,2,-1
+snake2.html:347 ------------------------------------------------------------
+snake2.html:403 ------------------------------------------------------------
+snake2.html:404 Batch number : 49
+snake2.html:405 Top Score so far : 43
+snake2.html:406 Top Scorer Coefficients : -9007199254740991,3,-8,9,-14,2,-6
+snake2.html:407 Current Score : 0
+snake2.html:408 Current Coefficients : -9007199254740991,-4,1,5,-14,-5,-5
+snake2.html:409 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 50
+snake2.html:343 Top Score so far : 43
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,3,-8,9,-14,2,-6
+snake2.html:345 Current Score : 42
+snake2.html:346 Current Coefficients : -9007199254740991,13,-16,9,-17,2,-6
+snake2.html:347 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 51
+snake2.html:343 Top Score so far : 43
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,3,-8,9,-14,2,-6
+snake2.html:345 Current Score : 34
+snake2.html:346 Current Coefficients : -9007199254740991,3,-15,15,-17,-6,-6
+snake2.html:347 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 52
+snake2.html:343 Top Score so far : 44
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,13,-5,9,-19,2,-16
+snake2.html:345 Current Score : 44
+snake2.html:346 Current Coefficients : -9007199254740991,13,-5,9,-19,2,-16
+snake2.html:347 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 53
+snake2.html:343 Top Score so far : 44
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,13,-5,9,-19,2,-16
+snake2.html:345 Current Score : 34
+snake2.html:346 Current Coefficients : -9007199254740991,6,0,10,-29,-2,-18
+snake2.html:347 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 54
+snake2.html:343 Top Score so far : 44
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,13,-5,9,-19,2,-16
+snake2.html:345 Current Score : 42
+snake2.html:346 Current Coefficients : -9007199254740991,19,-5,-1,-21,5,-16
+snake2.html:347 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 55
+snake2.html:343 Top Score so far : 44
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,13,-5,9,-19,2,-16
+snake2.html:345 Current Score : 40
+snake2.html:346 Current Coefficients : -9007199254740991,7,-5,10,-19,4,-18
+snake2.html:347 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 56
+snake2.html:343 Top Score so far : 44
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,13,-5,9,-19,2,-16
+snake2.html:345 Current Score : 41
+snake2.html:346 Current Coefficients : -9007199254740991,19,-4,11,-10,2,-14
+snake2.html:347 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 57
+snake2.html:343 Top Score so far : 44
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,13,-5,9,-19,2,-16
+snake2.html:345 Current Score : 44
+snake2.html:346 Current Coefficients : -9007199254740991,10,-5,9,-15,2,-7
+snake2.html:347 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 58
+snake2.html:343 Top Score so far : 45
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,4,-5,16,-20,1,-16
+snake2.html:345 Current Score : 45
+snake2.html:346 Current Coefficients : -9007199254740991,4,-5,16,-20,1,-16
+snake2.html:347 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 59
+snake2.html:343 Top Score so far : 45
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,4,-5,16,-20,1,-16
+snake2.html:345 Current Score : 33
+snake2.html:346 Current Coefficients : -9007199254740991,4,-13,26,-10,11,-23
+snake2.html:347 ------------------------------------------------------------
+snake2.html:403 ------------------------------------------------------------
+snake2.html:404 Batch number : 60
+snake2.html:405 Top Score so far : 45
+snake2.html:406 Top Scorer Coefficients : -9007199254740991,4,-5,16,-20,1,-16
+snake2.html:407 Current Score : 0
+snake2.html:408 Current Coefficients : -9007199254740991,-6,-14,16,-20,0,-8
+snake2.html:409 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 61
+snake2.html:343 Top Score so far : 45
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,4,-5,16,-20,1,-16
+snake2.html:345 Current Score : 45
+snake2.html:346 Current Coefficients : -9007199254740991,4,-5,23,-20,1,-23
+snake2.html:347 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 62
+snake2.html:343 Top Score so far : 45
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,4,-5,16,-20,1,-16
+snake2.html:345 Current Score : 44
+snake2.html:346 Current Coefficients : -9007199254740991,12,-5,23,-30,1,-11
+snake2.html:347 ------------------------------------------------------------
+snake2.html:403 ------------------------------------------------------------
+snake2.html:404 Batch number : 63
+snake2.html:405 Top Score so far : 45
+snake2.html:406 Top Scorer Coefficients : -9007199254740991,4,-5,16,-20,1,-16
+snake2.html:407 Current Score : 0
+snake2.html:408 Current Coefficients : -9007199254740991,-6,-2,21,-30,11,-20
+snake2.html:409 ------------------------------------------------------------
+snake2.html:403 ------------------------------------------------------------
+snake2.html:404 Batch number : 64
+snake2.html:405 Top Score so far : 45
+snake2.html:406 Top Scorer Coefficients : -9007199254740991,4,-5,16,-20,1,-16
+snake2.html:407 Current Score : 0
+snake2.html:408 Current Coefficients : -9007199254740991,-5,-14,16,-21,-4,-26
+snake2.html:409 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 65
+snake2.html:343 Top Score so far : 45
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,4,-5,16,-20,1,-16
+snake2.html:345 Current Score : 15
+snake2.html:346 Current Coefficients : -9007199254740991,12,-5,18,-23,-4,-16
+snake2.html:347 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 66
+snake2.html:343 Top Score so far : 45
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,4,-5,16,-20,1,-16
+snake2.html:345 Current Score : 40
+snake2.html:346 Current Coefficients : -9007199254740991,1,-5,16,-24,11,-9
+snake2.html:347 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 67
+snake2.html:343 Top Score so far : 45
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,4,-5,16,-20,1,-16
+snake2.html:345 Current Score : 2
+snake2.html:346 Current Coefficients : -9007199254740991,6,2,10,-11,1,-16
+snake2.html:347 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 68
+snake2.html:343 Top Score so far : 45
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,4,-5,16,-20,1,-16
+snake2.html:345 Current Score : 5
+snake2.html:346 Current Coefficients : -9007199254740991,4,3,20,-22,8,-16
+snake2.html:347 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 69
+snake2.html:343 Top Score so far : 46
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,4,-5,15,-20,1,-9
+snake2.html:345 Current Score : 46
+snake2.html:346 Current Coefficients : -9007199254740991,4,-5,15,-20,1,-9
+snake2.html:347 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 70
+snake2.html:343 Top Score so far : 46
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,4,-5,15,-20,1,-9
+snake2.html:345 Current Score : 43
+snake2.html:346 Current Coefficients : -9007199254740991,4,-5,16,-17,6,-9
+snake2.html:347 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 71
+snake2.html:343 Top Score so far : 46
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,4,-5,15,-20,1,-9
+snake2.html:345 Current Score : 31
+snake2.html:346 Current Coefficients : -9007199254740991,4,-5,5,-22,0,-9
+snake2.html:347 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 72
+snake2.html:343 Top Score so far : 46
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,4,-5,15,-20,1,-9
+snake2.html:345 Current Score : 46
+snake2.html:346 Current Coefficients : -9007199254740991,10,-5,18,-13,8,-9
+snake2.html:347 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 73
+snake2.html:343 Top Score so far : 46
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,4,-5,15,-20,1,-9
+snake2.html:345 Current Score : 43
+snake2.html:346 Current Coefficients : -9007199254740991,4,-9,12,-20,1,-11
+snake2.html:347 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 74
+snake2.html:343 Top Score so far : 46
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,4,-5,15,-20,1,-9
+snake2.html:345 Current Score : 45
+snake2.html:346 Current Coefficients : -9007199254740991,7,-3,17,-20,1,-9
+snake2.html:347 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 75
+snake2.html:343 Top Score so far : 47
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,6,-6,23,-15,8,-7
+snake2.html:345 Current Score : 47
+snake2.html:346 Current Coefficients : -9007199254740991,6,-6,23,-15,8,-7
+snake2.html:347 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 76
+snake2.html:343 Top Score so far : 47
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,6,-6,23,-15,8,-7
+snake2.html:345 Current Score : 45
+snake2.html:346 Current Coefficients : -9007199254740991,4,-6,28,-11,8,-15
+snake2.html:347 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 77
+snake2.html:343 Top Score so far : 47
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,6,-6,23,-15,8,-7
+snake2.html:345 Current Score : 13
+snake2.html:346 Current Coefficients : -9007199254740991,1,2,22,-15,17,-14
+snake2.html:347 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 78
+snake2.html:343 Top Score so far : 47
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,6,-6,23,-15,8,-7
+snake2.html:345 Current Score : 35
+snake2.html:346 Current Coefficients : -9007199254740991,13,-4,29,-8,8,0
+snake2.html:347 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 79
+snake2.html:343 Top Score so far : 47
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,6,-6,23,-15,8,-7
+snake2.html:345 Current Score : 45
+snake2.html:346 Current Coefficients : -9007199254740991,3,-10,14,-18,2,-12
+snake2.html:347 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 80
+snake2.html:343 Top Score so far : 47
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,6,-6,23,-15,8,-7
+snake2.html:345 Current Score : 4
+snake2.html:346 Current Coefficients : -9007199254740991,6,3,24,-23,8,-7
+snake2.html:347 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 81
+snake2.html:343 Top Score so far : 47
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,6,-6,23,-15,8,-7
+snake2.html:345 Current Score : 39
+snake2.html:346 Current Coefficients : -9007199254740991,6,-6,14,-15,12,-8
+snake2.html:347 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 82
+snake2.html:343 Top Score so far : 47
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,6,-6,23,-15,8,-7
+snake2.html:345 Current Score : 46
+snake2.html:346 Current Coefficients : -9007199254740991,10,-8,20,-21,7,-12
+snake2.html:347 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 83
+snake2.html:343 Top Score so far : 47
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,6,-6,23,-15,8,-7
+snake2.html:345 Current Score : 16
+snake2.html:346 Current Coefficients : -9007199254740991,8,0,25,-9,8,-7
+snake2.html:347 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 84
+snake2.html:343 Top Score so far : 47
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,6,-6,23,-15,8,-7
+snake2.html:345 Current Score : 36
+snake2.html:346 Current Coefficients : -9007199254740991,12,-6,29,-24,10,-13
+snake2.html:347 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 85
+snake2.html:343 Top Score so far : 47
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,6,-6,23,-15,8,-7
+snake2.html:345 Current Score : 38
+snake2.html:346 Current Coefficients : -9007199254740991,1,-3,29,-19,16,-7
+snake2.html:347 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 86
+snake2.html:343 Top Score so far : 47
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,6,-6,23,-15,8,-7
+snake2.html:345 Current Score : 40
+snake2.html:346 Current Coefficients : -9007199254740991,1,-6,16,-15,8,-8
+snake2.html:347 ------------------------------------------------------------
+snake2.html:403 ------------------------------------------------------------
+snake2.html:404 Batch number : 87
+snake2.html:405 Top Score so far : 47
+snake2.html:406 Top Scorer Coefficients : -9007199254740991,6,-6,23,-15,8,-7
+snake2.html:407 Current Score : 0
+snake2.html:408 Current Coefficients : -9007199254740991,-2,2,24,-10,-2,-7
+snake2.html:409 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 88
+snake2.html:343 Top Score so far : 47
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,6,-6,23,-15,8,-7
+snake2.html:345 Current Score : 33
+snake2.html:346 Current Coefficients : -9007199254740991,11,-15,22,-21,14,-9
+snake2.html:347 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 89
+snake2.html:343 Top Score so far : 47
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,6,-6,23,-15,8,-7
+snake2.html:345 Current Score : 35
+snake2.html:346 Current Coefficients : -9007199254740991,15,-6,19,-19,11,-10
+snake2.html:347 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 90
+snake2.html:343 Top Score so far : 47
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,6,-6,23,-15,8,-7
+snake2.html:345 Current Score : 29
+snake2.html:346 Current Coefficients : -9007199254740991,7,-6,18,-23,15,-16
+snake2.html:347 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 91
+snake2.html:343 Top Score so far : 47
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,6,-6,23,-15,8,-7
+snake2.html:345 Current Score : 42
+snake2.html:346 Current Coefficients : -9007199254740991,6,-5,23,-20,4,-7
+snake2.html:347 ------------------------------------------------------------
+snake2.html:403 ------------------------------------------------------------
+snake2.html:404 Batch number : 92
+snake2.html:405 Top Score so far : 47
+snake2.html:406 Top Scorer Coefficients : -9007199254740991,6,-6,23,-15,8,-7
+snake2.html:407 Current Score : 0
+snake2.html:408 Current Coefficients : -9007199254740991,0,3,15,-21,10,-17
+snake2.html:409 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 93
+snake2.html:343 Top Score so far : 47
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,6,-6,23,-15,8,-7
+snake2.html:345 Current Score : 4
+snake2.html:346 Current Coefficients : -9007199254740991,6,4,23,-16,7,-14
+snake2.html:347 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 94
+snake2.html:343 Top Score so far : 47
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,6,-6,23,-15,8,-7
+snake2.html:345 Current Score : 46
+snake2.html:346 Current Coefficients : -9007199254740991,6,-14,20,-23,2,-14
+snake2.html:347 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 95
+snake2.html:343 Top Score so far : 47
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,6,-6,23,-15,8,-7
+snake2.html:345 Current Score : 43
+snake2.html:346 Current Coefficients : -9007199254740991,14,-8,23,-5,2,-7
+snake2.html:347 ------------------------------------------------------------
+snake2.html:403 ------------------------------------------------------------
+snake2.html:404 Batch number : 96
+snake2.html:405 Top Score so far : 47
+snake2.html:406 Top Scorer Coefficients : -9007199254740991,6,-6,23,-15,8,-7
+snake2.html:407 Current Score : 0
+snake2.html:408 Current Coefficients : -9007199254740991,-3,-9,16,-15,8,-2
+snake2.html:409 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 97
+snake2.html:343 Top Score so far : 47
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,6,-6,23,-15,8,-7
+snake2.html:345 Current Score : 31
+snake2.html:346 Current Coefficients : -9007199254740991,6,-6,32,-18,-1,-7
+snake2.html:347 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 98
+snake2.html:343 Top Score so far : 47
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,6,-6,23,-15,8,-7
+snake2.html:345 Current Score : 42
+snake2.html:346 Current Coefficients : -9007199254740991,8,-6,28,-22,2,-15
+snake2.html:347 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 99
+snake2.html:343 Top Score so far : 47
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,6,-6,23,-15,8,-7
+snake2.html:345 Current Score : 46
+snake2.html:346 Current Coefficients : -9007199254740991,6,-15,23,-22,1,2
+snake2.html:347 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 100
+snake2.html:343 Top Score so far : 47
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,6,-6,23,-15,8,-7
+snake2.html:345 Current Score : 41
+snake2.html:346 Current Coefficients : -9007199254740991,6,-14,17,-10,7,-6
+snake2.html:347 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 101
+snake2.html:343 Top Score so far : 47
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,6,-6,23,-15,8,-7
+snake2.html:345 Current Score : 45
+snake2.html:346 Current Coefficients : -9007199254740991,6,-14,23,-15,8,-1
+snake2.html:347 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 102
+snake2.html:343 Top Score so far : 47
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,6,-6,23,-15,8,-7
+snake2.html:345 Current Score : 42
+snake2.html:346 Current Coefficients : -9007199254740991,9,-6,21,-22,8,-5
+snake2.html:347 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 103
+snake2.html:343 Top Score so far : 47
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,6,-6,23,-15,8,-7
+snake2.html:345 Current Score : 29
+snake2.html:346 Current Coefficients : -9007199254740991,6,-11,30,-15,0,-16
+snake2.html:347 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 104
+snake2.html:343 Top Score so far : 47
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,6,-6,23,-15,8,-7
+snake2.html:345 Current Score : 43
+snake2.html:346 Current Coefficients : -9007199254740991,14,-3,33,-15,6,0
+snake2.html:347 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 105
+snake2.html:343 Top Score so far : 47
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,6,-6,23,-15,8,-7
+snake2.html:345 Current Score : 46
+snake2.html:346 Current Coefficients : -9007199254740991,11,-4,23,-23,7,-10
+snake2.html:347 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 106
+snake2.html:343 Top Score so far : 47
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,6,-6,23,-15,8,-7
+snake2.html:345 Current Score : 44
+snake2.html:346 Current Coefficients : -9007199254740991,15,-6,23,-6,8,-7
+snake2.html:347 ------------------------------------------------------------
+snake2.html:403 ------------------------------------------------------------
+snake2.html:404 Batch number : 107
+snake2.html:405 Top Score so far : 47
+snake2.html:406 Top Scorer Coefficients : -9007199254740991,6,-6,23,-15,8,-7
+snake2.html:407 Current Score : 0
+snake2.html:408 Current Coefficients : -9007199254740991,0,-6,20,-8,8,0
+snake2.html:409 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 108
+snake2.html:343 Top Score so far : 47
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,6,-6,23,-15,8,-7
+snake2.html:345 Current Score : 35
+snake2.html:346 Current Coefficients : -9007199254740991,6,-6,18,-24,0,-7
+snake2.html:347 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 109
+snake2.html:343 Top Score so far : 47
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,6,-6,23,-15,8,-7
+snake2.html:345 Current Score : 40
+snake2.html:346 Current Coefficients : -9007199254740991,4,-6,13,-15,12,-2
+snake2.html:347 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 110
+snake2.html:343 Top Score so far : 51
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,2,-6,16,-5,8,-3
+snake2.html:345 Current Score : 51
+snake2.html:346 Current Coefficients : -9007199254740991,2,-6,16,-5,8,-3
+snake2.html:347 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 111
+snake2.html:343 Top Score so far : 51
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,2,-6,16,-5,8,-3
+snake2.html:345 Current Score : 37
+snake2.html:346 Current Coefficients : -9007199254740991,8,-6,16,5,8,2
+snake2.html:347 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 112
+snake2.html:343 Top Score so far : 51
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,2,-6,16,-5,8,-3
+snake2.html:345 Current Score : 12
+snake2.html:346 Current Coefficients : -9007199254740991,2,-6,25,2,15,-6
+snake2.html:347 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 113
+snake2.html:343 Top Score so far : 51
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,2,-6,16,-5,8,-3
+snake2.html:345 Current Score : 50
+snake2.html:346 Current Coefficients : -9007199254740991,8,-6,9,-5,8,3
+snake2.html:347 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 114
+snake2.html:343 Top Score so far : 51
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,2,-6,16,-5,8,-3
+snake2.html:345 Current Score : 39
+snake2.html:346 Current Coefficients : -9007199254740991,2,-6,16,2,7,-3
+snake2.html:347 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 115
+snake2.html:343 Top Score so far : 51
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,2,-6,16,-5,8,-3
+snake2.html:345 Current Score : 40
+snake2.html:346 Current Coefficients : -9007199254740991,2,-6,16,-3,2,5
+snake2.html:347 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 116
+snake2.html:343 Top Score so far : 51
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,2,-6,16,-5,8,-3
+snake2.html:345 Current Score : 44
+snake2.html:346 Current Coefficients : -9007199254740991,10,-12,17,-15,8,7
+snake2.html:347 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 117
+snake2.html:343 Top Score so far : 51
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,2,-6,16,-5,8,-3
+snake2.html:345 Current Score : 9
+snake2.html:346 Current Coefficients : -9007199254740991,3,2,13,-5,13,4
+snake2.html:347 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 118
+snake2.html:343 Top Score so far : 51
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,2,-6,16,-5,8,-3
+snake2.html:345 Current Score : 32
+snake2.html:346 Current Coefficients : -9007199254740991,6,-6,16,-1,13,2
+snake2.html:347 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 119
+snake2.html:343 Top Score so far : 51
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,2,-6,16,-5,8,-3
+snake2.html:345 Current Score : 39
+snake2.html:346 Current Coefficients : -9007199254740991,2,-6,8,5,2,-3
+snake2.html:347 ------------------------------------------------------------
+snake2.html:403 ------------------------------------------------------------
+snake2.html:404 Batch number : 120
+snake2.html:405 Top Score so far : 51
+snake2.html:406 Top Scorer Coefficients : -9007199254740991,2,-6,16,-5,8,-3
+snake2.html:407 Current Score : 0
+snake2.html:408 Current Coefficients : -9007199254740991,-3,1,16,5,18,-8
+snake2.html:409 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 121
+snake2.html:343 Top Score so far : 51
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,2,-6,16,-5,8,-3
+snake2.html:345 Current Score : 39
+snake2.html:346 Current Coefficients : -9007199254740991,5,-7,16,-8,8,-5
+snake2.html:347 ------------------------------------------------------------
+snake2.html:403 ------------------------------------------------------------
+snake2.html:404 Batch number : 122
+snake2.html:405 Top Score so far : 51
+snake2.html:406 Top Scorer Coefficients : -9007199254740991,2,-6,16,-5,8,-3
+snake2.html:407 Current Score : 0
+snake2.html:408 Current Coefficients : -9007199254740991,-5,-6,12,2,12,0
+snake2.html:409 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 123
+snake2.html:343 Top Score so far : 51
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,2,-6,16,-5,8,-3
+snake2.html:345 Current Score : 38
+snake2.html:346 Current Coefficients : -9007199254740991,2,-5,16,0,8,-13
+snake2.html:347 ------------------------------------------------------------
+snake2.html:403 ------------------------------------------------------------
+snake2.html:404 Batch number : 124
+snake2.html:405 Top Score so far : 51
+snake2.html:406 Top Scorer Coefficients : -9007199254740991,2,-6,16,-5,8,-3
+snake2.html:407 Current Score : 0
+snake2.html:408 Current Coefficients : -9007199254740991,-7,-4,16,-7,18,2
+snake2.html:409 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 125
+snake2.html:343 Top Score so far : 51
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,2,-6,16,-5,8,-3
+snake2.html:345 Current Score : 32
+snake2.html:346 Current Coefficients : -9007199254740991,2,-1,13,2,8,-13
+snake2.html:347 ------------------------------------------------------------
+snake2.html:403 ------------------------------------------------------------
+snake2.html:404 Batch number : 126
+snake2.html:405 Top Score so far : 51
+snake2.html:406 Top Scorer Coefficients : -9007199254740991,2,-6,16,-5,8,-3
+snake2.html:407 Current Score : 0
+snake2.html:408 Current Coefficients : -9007199254740991,-8,-6,16,2,16,-6
+snake2.html:409 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 127
+snake2.html:343 Top Score so far : 51
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,2,-6,16,-5,8,-3
+snake2.html:345 Current Score : 29
+snake2.html:346 Current Coefficients : -9007199254740991,5,-6,15,-9,18,-9
+snake2.html:347 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 128
+snake2.html:343 Top Score so far : 51
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,2,-6,16,-5,8,-3
+snake2.html:345 Current Score : 41
+snake2.html:346 Current Coefficients : -9007199254740991,6,-7,21,-1,4,3
+snake2.html:347 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 129
+snake2.html:343 Top Score so far : 51
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,2,-6,16,-5,8,-3
+snake2.html:345 Current Score : 27
+snake2.html:346 Current Coefficients : -9007199254740991,5,-2,16,-4,17,-4
+snake2.html:347 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 130
+snake2.html:343 Top Score so far : 51
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,2,-6,16,-5,8,-3
+snake2.html:345 Current Score : 42
+snake2.html:346 Current Coefficients : -9007199254740991,2,-4,16,4,5,-3
+snake2.html:347 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 131
+snake2.html:343 Top Score so far : 51
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,2,-6,16,-5,8,-3
+snake2.html:345 Current Score : 4
+snake2.html:346 Current Coefficients : -9007199254740991,2,4,6,-1,8,4
+snake2.html:347 ------------------------------------------------------------
+snake2.html:403 ------------------------------------------------------------
+snake2.html:404 Batch number : 132
+snake2.html:405 Top Score so far : 51
+snake2.html:406 Top Scorer Coefficients : -9007199254740991,2,-6,16,-5,8,-3
+snake2.html:407 Current Score : 0
+snake2.html:408 Current Coefficients : -9007199254740991,-3,-6,11,-5,8,-12
+snake2.html:409 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 133
+snake2.html:343 Top Score so far : 51
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,2,-6,16,-5,8,-3
+snake2.html:345 Current Score : 30
+snake2.html:346 Current Coefficients : -9007199254740991,3,-6,17,-4,13,1
+snake2.html:347 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 134
+snake2.html:343 Top Score so far : 51
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,2,-6,16,-5,8,-3
+snake2.html:345 Current Score : 34
+snake2.html:346 Current Coefficients : -9007199254740991,6,-15,16,-15,17,0
+snake2.html:347 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 135
+snake2.html:343 Top Score so far : 51
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,2,-6,16,-5,8,-3
+snake2.html:345 Current Score : 43
+snake2.html:346 Current Coefficients : -9007199254740991,2,-6,23,-4,8,-13
+snake2.html:347 ------------------------------------------------------------
+snake2.html:341 ------------------------------------------------------------
+snake2.html:342 Batch number : 136
+snake2.html:343 Top Score so far : 51
+snake2.html:344 Top Scorer Coefficients : -9007199254740991,2,-6,16,-5,8,-3
+snake2.html:345 Current Score : 39
+snake2.html:346 Current Coefficients : -9007199254740991,4,-2,16,-5,4,4
+snake2.html:347 ------------------------------------------------------------
